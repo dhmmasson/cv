@@ -1,4 +1,8 @@
 body {
-  background-color: black;
+  background-color: rgba(171, 0, 0, 0.848);
   color: white; /* Optionnel, pour rendre le texte lisible */
+}
+
+h1 {
+  font-size: 64px;
 }
